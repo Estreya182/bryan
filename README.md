@@ -1,1 +1,2 @@
-# bryan
+# trexfinal
+juego del trex infinito
